@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **tharindutheekshana36@gmail.com**
 
-- ⚡ Fun fact **Call me as Thari**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
