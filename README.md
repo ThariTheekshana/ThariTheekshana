@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **Sri Lanaka Institute of Information Technology**
 
-- 🌱 I’m currently learning **Flutter, MERN Stack, WordPress, Java**
+- 🌱 I’m currently learning **Flutter, Swift, MERN Stack, WordPress, Java**
 
 - 📫 How to reach me **tharindutheekshana36@gmail.com**
 
